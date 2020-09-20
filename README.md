@@ -3,7 +3,7 @@
 
 ## PyBank
 
-![Revenue](Images/revenue-per-lead.png)
+
 
 * create a Python script for analyzing the financial records. 
 
@@ -35,7 +35,7 @@
 
 ## PyPoll
 
-![Vote Counting](Images/Vote_counting.png)
+
 
 Create a Python script that analyzes the votes and calculates each of the following:
 
